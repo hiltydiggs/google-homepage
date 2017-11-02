@@ -1,0 +1,51 @@
+<!DOCUMENT html>
+<html lang="en">
+  
+  <head>
+    <title>Google!</title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" type="text/css" href="./styles/eric-meyers-reset.css" />
+    <link rel="stylesheet" type="text/css" href="./styles/main.css" />
+  </head>
+
+  <body>
+    <header>
+      <nav class="nav nav-right">
+        <a href="#">Gmail</a>
+        <a href="#">Images</a>
+        <a href="#"><img class="icon" src="./resources/menu_icon.svg" alt="more options" /></a>
+        <a class="signin" href="#">Sign In</a>
+      </nav>
+    </header>
+    <main>
+      <div class="main">
+        <img class="logo" src="./resources/google_logo.png" alt="google logo" />
+        <form class="search-form" action="/search-results" method="GET">
+          <div>
+            <label for="search" style="display: none;">Search Input</label>
+            <input type="text" id="search" name="search-input" />
+          </div>
+          <div>
+            <button type="submit">Google Search</button>
+            <button type="button">I'm Feeling Lucky</button>
+          </div>
+        </form>
+      </div>
+    </main>
+    <footer class="footer">
+      <nav class="nav">
+        <span class="float-left">
+          <a href="#">Advertising</a>
+          <a href="#">Business</a>
+          <a href="#">About</a>
+        </span>
+        <span class="float-right">
+          <a href="#">Privacy</a>
+          <a href="#">Terms</a>
+          <a href="#">Settings</a>
+        </span>
+      </nav>
+    </footer>
+  </body>
+
+</html>

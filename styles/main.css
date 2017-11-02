@@ -1,0 +1,96 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100vh;
+}
+
+body {
+  position: relative;
+  min-height: 100%;
+  margin-bottom: 0;
+  font-family: sans-serif;
+  font-size: 14px;
+}
+
+/* NAVIGATION BARS */
+.float-left {
+  float: left;
+}
+
+.float-right {
+  float: right;
+}
+
+header {
+  margin-top: 15px;
+}
+
+.nav a {
+  margin: auto 5px;
+  color: #171725;
+  text-decoration-line: none;
+}
+
+.nav-left {
+  text-align: left;
+}
+
+.nav-right {
+  text-align: right;
+}
+
+.icon {
+  width: 20px;
+  height: auto;
+  vertical-align: middle;
+}
+
+.signin {
+  padding: 6px;
+  font-weight: bold;
+  background-color: #2c6580;
+  border-radius: 3px;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 30px;
+  padding-top: 5px;
+  border-top: 1px solid #888;
+  background: #aaa;
+}
+
+/* MAIN FORM */
+.main {
+  padding-top: 15%;
+  text-align: center;
+}
+
+.logo {
+  display: block;
+  clear: both;
+  width: 30%;
+  max-width: 400px;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.search-form input[type="text"] {
+  display: block;
+  width: 40%;
+  max-width: 400px;
+  margin: 15px auto;
+}
+
+.search-form button {
+  margin: auto 10px;
+  padding: 10px 8px;
+  border: none;
+  border-radius: 5px;
+}
