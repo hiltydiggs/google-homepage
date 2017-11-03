@@ -1,17 +1,42 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   id="svg8"
-   version="1.1"
-   viewBox="0 0 13.229166 13.229167"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="50"
    height="50"
-   width="50">
+   viewBox="0 0 13.229166 13.229167"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (30a58d1, 2017-08-07)"
+   sodipodi:docname="menu_icon.svg">
   <defs
      id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.89625"
+     inkscape:cx="398.03921"
+     inkscape:cy="-120.91692"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1535"
+     inkscape:window-height="876"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -25,21 +50,15 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(0,-283.77082)"
-     id="layer1">
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-283.77082)">
     <rect
-       ry="0.38117939"
-       style="stroke-width:0.321536"
-       y="285.09375"
+       id="rect3699"
+       width="2.6458333"
+       height="2.6458333"
        x="1.3229166"
-       height="2.6458333"
-       width="2.6458333"
-       id="rect3699" />
-    <rect
-       id="rect3701"
-       width="2.6458333"
-       height="2.6458333"
-       x="5.2916665"
        y="285.09375"
        style="stroke-width:0.321536"
        ry="0.38117939" />
@@ -47,47 +66,47 @@
        ry="0.38117939"
        style="stroke-width:0.321536"
        y="285.09375"
-       x="9.260417"
-       height="2.6458333"
-       width="2.6458333"
-       id="rect3703" />
-    <rect
-       id="rect3705"
-       width="2.6458333"
-       height="2.6458333"
-       x="9.260417"
-       y="289.0625"
-       style="stroke-width:0.321536"
-       ry="0.38117939" />
-    <rect
-       ry="0.38117939"
-       style="stroke-width:0.321536"
-       y="289.0625"
-       x="1.3229166"
-       height="2.6458333"
-       width="2.6458333"
-       id="rect3707" />
-    <rect
-       id="rect3709"
-       width="2.6458333"
-       height="2.6458333"
        x="5.2916665"
+       height="2.6458333"
+       width="2.6458333"
+       id="rect3701" />
+    <rect
+       id="rect3703"
+       width="2.6458333"
+       height="2.6458333"
+       x="9.260417"
+       y="285.09375"
+       style="stroke-width:0.321536"
+       ry="0.38117939" />
+    <rect
+       ry="0.38117939"
+       style="stroke-width:0.321536"
+       y="289.0625"
+       x="9.260417"
+       height="2.6458333"
+       width="2.6458333"
+       id="rect3705" />
+    <rect
+       id="rect3707"
+       width="2.6458333"
+       height="2.6458333"
+       x="1.3229166"
        y="289.0625"
        style="stroke-width:0.321536"
        ry="0.38117939" />
     <rect
        ry="0.38117939"
        style="stroke-width:0.321536"
-       y="293.03125"
-       x="1.3229166"
-       height="2.6458333"
-       width="2.6458333"
-       id="rect3711" />
-    <rect
-       id="rect3713"
-       width="2.6458333"
-       height="2.6458333"
+       y="289.0625"
        x="5.2916665"
+       height="2.6458333"
+       width="2.6458333"
+       id="rect3709" />
+    <rect
+       id="rect3711"
+       width="2.6458333"
+       height="2.6458333"
+       x="1.3229166"
        y="293.03125"
        style="stroke-width:0.321536"
        ry="0.38117939" />
@@ -95,9 +114,17 @@
        ry="0.38117939"
        style="stroke-width:0.321536"
        y="293.03125"
-       x="9.260417"
+       x="5.2916665"
        height="2.6458333"
        width="2.6458333"
-       id="rect3715" />
+       id="rect3713" />
+    <rect
+       id="rect3715"
+       width="2.6458333"
+       height="2.6458333"
+       x="9.260417"
+       y="293.03125"
+       style="stroke-width:0.321536"
+       ry="0.38117939" />
   </g>
 </svg>
